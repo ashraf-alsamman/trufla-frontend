@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<defs>
+		<image width="58" height="52" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA0CAMAAADsb9tqAAAAAXNSR0IB2cksfwAAAJBQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////lgAZ8AAAADB0Uk5TANT/OIOZzlEa/QlltrBu+yZH0pKK3UMp73Snv18LGFbEoXzsgRlVZrNNtOXosTvJAr1w+AAAARZJREFUeJzt1QeOwjAQBdDh03uvpvee+98OWETWjr2rb0BCCEbRyDPKU5pji9wiBipiYgcnASd1NLmz7r9qnKVxiyaQZG44iYTVSyHN0DRS0VYG2RxDc1lkIq08CowUKSAf6RRR4mgJxUinjApHKyibjSpqnBSpoWrUdTRY2kDdqJtosbSFpl620WGlSAdtreqix9Meulql0OdpH+q3GABDng6BQViMMOalyBijcDzB1IdOMQnHM/ZfvcUspL5SWyquQ9/8rnS+WMx98nPesDofy9X6kjfb3f5w/Cv/nGM9Kx+fTrWd3dy9g0sr+I86Px1LqWdgaWDOo8CDOuYgT617/dIn07s/zgNTwhEvpcp/Jb2GeoCeADsvGB5TBVpuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Store">
+		<use id="Layer 1" href="#img1" x="3" y="9" />
+	</g>
+</svg>
